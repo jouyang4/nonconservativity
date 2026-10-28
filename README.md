@@ -11,11 +11,9 @@ Jonathan R. Ouyang (1, 2). jouyan11@jhmi.edu
 2. Department of Molecular Biology and Genetics, Johns Hopkins University School of
    Medicine, Baltimore, MD, USA
 
-Venues:
-
-- Interpretability for Discovery Workshop, NeurIPS 2026.
+- **Paper**, NeurIPS 2026 Workshop on Interpretability for Discovery (Interp4Discovery).
   https://openreview.net/forum?id=3bb2CB8WHx
-- ICBINB-BIO Workshop, NeurIPS 2026.
+- **Poster**, NeurIPS 2026 Workshop ICBINB-Bio.
   https://openreview.net/forum?id=EMnLEnwXbA
 
 ## Main quantity
@@ -76,6 +74,33 @@ claimed.
     examples/                numpy-only examples
     configs/                 model-side evaluation configs
     expected_results.yaml    asserted values
+
+## Citing
+
+Ouyang, J. "Hidden non-conservativity in structure prediction models." Paper accepted at the
+NeurIPS 2026 Workshop on Interpretability for Discovery (Interp4Discovery).
+https://openreview.net/forum?id=3bb2CB8WHx
+
+Ouyang, J. "Hidden non-conservativity in structure prediction models." Poster, NeurIPS 2026
+Workshop ICBINB-Bio.
+https://openreview.net/forum?id=EMnLEnwXbA
+
+    @inproceedings{ouyang2026nonconservativity,
+      author    = {Ouyang, Jonathan R.},
+      title     = {Hidden non-conservativity in structure prediction models},
+      booktitle = {NeurIPS 2026 Workshop on Interpretability for Discovery (Interp4Discovery)},
+      year      = {2026},
+      url       = {https://openreview.net/forum?id=3bb2CB8WHx}
+    }
+
+    @inproceedings{ouyang2026nonconservativityicbinb,
+      author    = {Ouyang, Jonathan R.},
+      title     = {Hidden non-conservativity in structure prediction models},
+      booktitle = {NeurIPS 2026 Workshop ICBINB-Bio},
+      year      = {2026},
+      note      = {Poster},
+      url       = {https://openreview.net/forum?id=EMnLEnwXbA}
+    }
 
 ## License
 

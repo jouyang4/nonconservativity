@@ -12,8 +12,8 @@ license = { text = "MIT" }
 dependencies = ["numpy>=1.26,<2", "scipy>=1.11", "pandas>=2.0", "matplotlib>=3.7", "biopython>=1.81", "pyyaml>=6.0"]
 
 [project.urls]
-"Interpretability for Discovery Workshop, NeurIPS 2026" = "https://openreview.net/forum?id=3bb2CB8WHx"
-"ICBINB-BIO Workshop, NeurIPS 2026" = "https://openreview.net/forum?id=EMnLEnwXbA"
+"Paper (Interp4Discovery, NeurIPS 2026)" = "https://openreview.net/forum?id=3bb2CB8WHx"
+"Poster (ICBINB-Bio, NeurIPS 2026)" = "https://openreview.net/forum?id=EMnLEnwXbA"
 
 [tool.setuptools.packages.find]
 where = ["src"]
