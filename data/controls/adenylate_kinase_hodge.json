@@ -1,0 +1,8 @@
+{
+ "target": "adenylate_kinase",
+ "sigma_A": 2.0,
+ "gradient_fraction_of_squared_field_norm": 0.9999303525368866,
+ "analytic_conservative_control_fraction": 1.0000000000000029,
+ "raw_circulation": 4.784912934102917,
+ "projected_gradient_circulation": -1.7581287448439644e-15
+}

@@ -1,0 +1,11 @@
+analysis: path_dependence
+n_pairs: 25
+sigma_angstrom: 4.0
+paths:
+  direct: interpolated_endpoint_path
+  detour: soft_anisotropic_network_mode
+detour_amplitude_angstrom: 1.0
+integration_intervals: 128
+integration: midpoint
+noise_draws: 12
+loop_quantity: W

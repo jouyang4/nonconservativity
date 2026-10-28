@@ -1,0 +1,13 @@
+model: esmfold2-fast
+checkpoint_id: biohub/ESMFold2-Fast
+weights_revision: c6c7958d63f5
+conditioning: single_sequence
+folding_loops: 3
+anchor_sampling_steps: 50
+msa_max_depth: 1
+lm_dropout: 0.0
+precision: float32
+jacobian:
+  coordinate_subset: C-alpha
+  sigma_angstrom: 4.0
+  method: reverse_mode_autograd

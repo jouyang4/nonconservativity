@@ -1,0 +1,21 @@
+model: boltz-2
+version: "boltz==2.2.1"
+conditioning: single_sequence
+msa:
+  server: off
+  input: empty
+recycling_steps: 3
+sampling_steps: 40
+precision: float32
+deterministic: true
+no_kernels: true
+disabled_for_field_evaluation:
+  coordinate_augmentation: true
+  reverse_diffusion_alignment: true
+  fk_steering: true
+  physical_guidance: true
+  contact_guidance: true
+jacobian:
+  coordinate_subset: C-alpha
+  sigma_angstrom: 4.0
+  method: reverse_mode_autograd

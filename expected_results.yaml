@@ -1,0 +1,46 @@
+boltz2_single_sequence:
+  n: 188
+  median_lambda_off: 0.1947
+esmfold2_fast:
+  n: 172
+  weights_revision: "c6c7958d63f5"
+  alternate_revision_excluded_n: 15
+  median_lambda_off: 0.0975
+cross_model:
+  n: 172
+  pearson_r: 0.2759
+  spearman_rho: 0.2115
+confidence:
+  boltz2_plddt_spearman: -0.3868
+  boltz2_plddt_n: 188
+  esmfold2_plddt_spearman: -0.3193
+  esmfold2_plddt_n: 160
+  near_contact_spearman: -0.3035
+msa_effect:
+  n: 188
+  median_single_sequence: 0.1947
+  median_msa: 0.1455
+  median_delta: -0.0474
+  fraction_decreased: 0.7819
+  paired_wilcoxon_p: 7.018142584213162e-20
+  paired_spearman: 0.1395
+path_dependence:
+  n: 25
+  boltz2_median_exp_abs_W: 2.244
+  esmfold2_median_exp_abs_W: 2.9768
+  low_rmsd_n: 10
+  low_rmsd_boltz2_median: 1.5286
+  low_rmsd_esmfold2_median: 1.7085
+  abs_W_vs_rmsd_spearman: 0.7146
+msa_path_effect:
+  n: 25
+  median_single: 2.244
+  median_msa: 2.4656
+  paired_wilcoxon_p: 0.5602
+  median_ratio_msa_over_single: 0.9954
+  paired_spearman: 0.8415
+hodge_adenylate_kinase:
+  sigma_A: 2.0
+  gradient_fraction: 0.99993
+  control_fraction: 1.0
+  raw_circulation: 4.7849
