@@ -3,11 +3,12 @@
 Reciprocity and path-integrability analysis of the Cartesian vector fields differentiated from
 pretrained structure-prediction models (Boltz-2, ESMFold2-Fast).
 
-Papers:
+Hidden non-conservativity in structure prediction models.
 
-- Hidden non-conservativity in structure prediction models.
+- Interpretability for Discovery Workshop, NeurIPS 2026.
   https://openreview.net/forum?id=3bb2CB8WHx
-- https://openreview.net/forum?id=EMnLEnwXbA
+- ICBINB-BIO Workshop, NeurIPS 2026.
+  https://openreview.net/forum?id=EMnLEnwXbA
 
 ## Main quantity
 
