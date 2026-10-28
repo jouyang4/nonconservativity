@@ -5,6 +5,14 @@ pretrained structure-prediction models (Boltz-2, ESMFold2-Fast).
 
 Hidden non-conservativity in structure prediction models.
 
+Jonathan R. Ouyang (1, 2). jouyan11@jhmi.edu
+
+1. T.C. Jenkins Department of Biophysics, Johns Hopkins University, Baltimore, MD, USA
+2. Department of Molecular Biology and Genetics, Johns Hopkins University School of
+   Medicine, Baltimore, MD, USA
+
+Venues:
+
 - Interpretability for Discovery Workshop, NeurIPS 2026.
   https://openreview.net/forum?id=3bb2CB8WHx
 - ICBINB-BIO Workshop, NeurIPS 2026.
