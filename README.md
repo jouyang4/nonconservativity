@@ -13,6 +13,7 @@ Jonathan R. Ouyang (1, 2). jouyan11@jhmi.edu
 
 - **Paper**, NeurIPS 2026 Workshop on Interpretability for Discovery (Interp4Discovery).
   https://openreview.net/forum?id=3bb2CB8WHx
+  PDF: https://openreview.net/pdf?id=3bb2CB8WHx
 - **Poster**, NeurIPS 2026 Workshop ICBINB-Bio.
   https://openreview.net/forum?id=EMnLEnwXbA
 
@@ -77,21 +78,25 @@ claimed.
 
 ## Citing
 
+If you use this code or these results, please cite:
+
 Ouyang, J. "Hidden non-conservativity in structure prediction models." Paper accepted at the
 NeurIPS 2026 Workshop on Interpretability for Discovery (Interp4Discovery).
 https://openreview.net/forum?id=3bb2CB8WHx
-
-Ouyang, J. "Hidden non-conservativity in structure prediction models." Poster, NeurIPS 2026
-Workshop ICBINB-Bio.
-https://openreview.net/forum?id=EMnLEnwXbA
+PDF: https://openreview.net/pdf?id=3bb2CB8WHx
 
     @inproceedings{ouyang2026nonconservativity,
       author    = {Ouyang, Jonathan R.},
       title     = {Hidden non-conservativity in structure prediction models},
       booktitle = {NeurIPS 2026 Workshop on Interpretability for Discovery (Interp4Discovery)},
       year      = {2026},
-      url       = {https://openreview.net/forum?id=3bb2CB8WHx}
+      url       = {https://openreview.net/forum?id=3bb2CB8WHx},
+      pdf       = {https://openreview.net/pdf?id=3bb2CB8WHx}
     }
+
+Ouyang, J. "Hidden non-conservativity in structure prediction models." Poster, NeurIPS 2026
+Workshop ICBINB-Bio.
+https://openreview.net/forum?id=EMnLEnwXbA
 
     @inproceedings{ouyang2026nonconservativityicbinb,
       author    = {Ouyang, Jonathan R.},
